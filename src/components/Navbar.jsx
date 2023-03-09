@@ -1,13 +1,11 @@
 function Navbar() {
   return (
     <nav>
-      <img className="react-icon" src="./images/react-2.svg" alt="react icon"></img>
-      <h3>ReactFacts</h3>
-      <h4>React Course - Project 1</h4>
+      <img className="nav--icon" src="./images/react-2.svg" alt="react icon"></img>
+      <h3 className="nav--logo_text">ReactFacts</h3>
+      <h4 className="nav--title">React Course - Project 1</h4>
     </nav>
   )
 }
 
 export default Navbar
-
-// W tym miejscu skończyłem. Muszę wklepać do projektu albo przeźroczysty background png, albo svg, żeby nie pokazywało mi tego zjebanego tła. Pozdro 600, jebać png z internetu.
