@@ -6,6 +6,10 @@ body {
   margin: 0;
 }
 
+.react-icon {
+  width: 80px;
+}
+
 nav {
   display: flex;
   align-items: center;
