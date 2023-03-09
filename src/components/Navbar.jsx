@@ -9,5 +9,3 @@ function Navbar() {
 }
 
 export default Navbar
-
-// W tym miejscu skończyłem. Muszę wklepać do projektu albo przeźroczysty background png, albo svg, żeby nie pokazywało mi tego zjebanego tła. Pozdro 600, jebać png z internetu.
